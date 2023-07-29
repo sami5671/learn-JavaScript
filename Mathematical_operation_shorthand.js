@@ -29,3 +29,15 @@ console.log(price1);
 // /=
 price2 /= 5;
 console.log(price1);
+
+//
+var age = 15;
+age = age + 1;
+
+// age++ means adding 1 to the existing
+age++;
+
+var love = 100;
+love = love - 1;
+//-- means you are deducting 1 from the existing value
+love--;
