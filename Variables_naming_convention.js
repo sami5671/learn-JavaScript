@@ -22,3 +22,5 @@ var usercurrentaddress = "vatpara saavr dhaka";
 var user_current_address = "vatpara saavr dhaka";//snake case
 var userCurrentAddress = "vatpara saavr dhaka";//camel case; we will use it 
 var UserCurrentAddress = "vatpara saavr dhaka";//pascal case
+
+
