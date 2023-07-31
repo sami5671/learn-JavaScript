@@ -8,4 +8,5 @@ var index = destinations.indexOf("bali");
 console.log(index);
 
 destinations.push("bhutan");
-destinations.pop();
+// destinations.pop();
+console.log(destinations);
