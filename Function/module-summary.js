@@ -29,7 +29,6 @@ switch (color) {
   case "yellow":
     console.log("you are my yellow friend");
     break;
-
   default:
     console.log("you are my kala friend");
     break;

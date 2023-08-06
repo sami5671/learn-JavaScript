@@ -1,8 +1,6 @@
 function make_avg(array_numbers, size) {
   var sum = 0;
-  for (var i = array_numbers; i <= size; i++) {
-    sum = sum + i;
-  }
+
   var avg = sum / size;
   return avg;
 }
