@@ -13,3 +13,13 @@ console.log(partial);
 
 const partial2 = lyrics.substring(5, 8);
 console.log(partial2);
+
+// join
+const lines = [
+  "Tumi bondhu kala phaki ami jeno",
+  "bosonto kale tomai bolte pari ni",
+  "bosonto kale tomai bolte pari ni.",
+];
+
+const newSong = lines.join(". ");
+console.log(newSong);
