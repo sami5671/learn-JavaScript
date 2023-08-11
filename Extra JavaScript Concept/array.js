@@ -3,8 +3,8 @@ const products = [
   { name: "laptop", price: 34000 },
 ];
 
-products[0];
-products[1];
+// products[0];
+// products[1];
 
 // const products = [15, 13,34];
 const product = {
