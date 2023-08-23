@@ -24,3 +24,13 @@ cena cena lage tmumi boro ocena
 mair dimu naki`;
 
 console.log(challenge);
+
+// ----------------
+const numbers = [45, 48, 98, 78];
+const student = { name: "jhon cena", age: 5 };
+
+const addition = `The sum of ${numbers[0]} and ${student.age} is ${
+  numbers[0] + student.age
+}`;
+
+console.log(addition);
