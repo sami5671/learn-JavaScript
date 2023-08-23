@@ -17,3 +17,4 @@ console.log(friends);
 // advance spread operator
 const shonka = [...friends, 99999]; //add extra elements while copy
 console.log(shonka);
+
