@@ -35,14 +35,14 @@ const { isCleaned, ...shortGlass } = glass;
 console.log(glass);
 console.log(shortGlass);
 
-// freeze
+// freeze(only read, not allow(create, update, delete))
 Object.freeze(glass); //it will not change the values odd add delete when it is open
 glass.source = "bangladesh";
 glass.price = 30000;
 delete glass.name;
 console.log(glass);
 
-// seal
+// seal(can read, update, but(cannot create, delete))
 Object.seal(glass); //it will modify the properties value but will not add any new properties
 glass.source = "bangladesh";
 glass.price = 30000;
