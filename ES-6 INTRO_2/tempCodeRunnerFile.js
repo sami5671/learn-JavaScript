@@ -1,0 +1,1 @@
+const selected = players.filter((p) => p > 70);
