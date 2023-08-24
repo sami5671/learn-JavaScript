@@ -21,9 +21,17 @@ console.log(oddFriends);
 const findAnything = friends.find((n) => n.length > 4);
 console.log(findAnything); //it will not give us an array, just wee will got only the first element of the array
 
+// reduce function
+const number1 = [1, 3, 4, 6, 7, 44];
+const total = number1.reduce((previous, current) => previous + current, 0);
+console.log(total);
+
+const sum = number1.reduce((p, c) => p + c, 0);
+console.log(sum);
 /**
  * 1. map
  * 2. forEach
  * 3. filter
  * 4. find
+ * 5. reduce
  */
