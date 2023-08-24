@@ -11,3 +11,5 @@ const friends = (parameter1) => {
 
 const parameter = friends(["sami", "alamm", "sarif", "jnifar"]);
 console.log(parameter);
+
+
