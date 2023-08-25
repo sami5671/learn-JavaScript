@@ -8,7 +8,6 @@
 // string[] friends = ['abul', 'babul'];
 
 //javaScript is a Dynamic type programming Language
-
 // preemptive
 const a = 5;
 const b = "samsu kopai na ekhon";
